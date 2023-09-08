@@ -1,6 +1,6 @@
 # desafio-collections-list
 
-Exercitando e consolidando o aprendizado adquirido no módulo de collections do bootcamp do Santander. 
+Exercitando e consolidando o aprendizado adquirido no módulo de collections do Bootcamp do Santander. A collection utilizada é do tipo LIST. 
 
 ## Sobre o projeto 
 
