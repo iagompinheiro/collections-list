@@ -60,9 +60,9 @@ public class CatalagoLivros {
         catalagoLivros.adicionarLivro("Livro 4", "Autor 4", 1988);
         catalagoLivros.adicionarLivro("Livro 5", "Autor 5", 1989);
 
-        System.out.println(catalagoLivros.pesquisaPorAutor("Autor 2"));
-        System.out.println(catalagoLivros.pesquisarPorIntervaloAnos(1922, 2000));
-        System.out.println(catalagoLivros.pesquisaPorTitulo("Livro 1"));
+        System.out.println("Pesquisa por autor: " + catalagoLivros.pesquisaPorAutor("Autor 2"));
+        System.out.println("Intervalo de anos: " + catalagoLivros.pesquisarPorIntervaloAnos(1988, 2000));
+        System.out.println("Pesquisa por título: " + catalagoLivros.pesquisaPorTitulo("Livro 1"));
     }
 
 
