@@ -1,4 +1,6 @@
-package list;
+package list.operacoesBasicas;
+
+import list.operacoesBasicas.CarrinhoCompra;
 
 public class Main {
     public static void main(String[] args) {
