@@ -37,8 +37,8 @@ public class ConjuntoConvidados {
         ConjuntoConvidados conjuntoConvidados = new ConjuntoConvidados();
 
         conjuntoConvidados.adicionarConvidado("Convidado1", 565248);
-        conjuntoConvidados.adicionarConvidado("Convidado2", 565248);
-        conjuntoConvidados.adicionarConvidado("Convidado3", 5658);
+        conjuntoConvidados.adicionarConvidado("Convidado3", 565248);
+        conjuntoConvidados.adicionarConvidado("Convidado5", 5658);
         conjuntoConvidados.adicionarConvidado("Convidado4", 5248);
         conjuntoConvidados.exibirConvidados();
 
