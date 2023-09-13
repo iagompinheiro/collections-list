@@ -1,6 +1,6 @@
 # desafio-collections-list
 
-Exercitando e consolidando o aprendizado adquirido no módulo de collections do Bootcamp do Santander. A collection utilizada é do tipo LIST (Operações básicas, pesquisa).
+Exercitando e consolidando o aprendizado adquirido no módulo de collections do Bootcamp do Santander. A collection utilizada é do tipo LIST (Operações básicas, pesquisa e ordenação).
 
  ## Tecnologias utilizadas 
  • Java
