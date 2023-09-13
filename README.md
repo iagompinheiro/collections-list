@@ -1,6 +1,6 @@
-# desafio-collections-list
+# desafio-collections-list-set-map
 
-Exercitando e consolidando o aprendizado adquirido no módulo de collections do Bootcamp do Santander. A collection utilizada é do tipo LIST (Operações básicas, pesquisa e ordenação).
+Exercitando e consolidando o aprendizado adquirido no módulo de collections do Bootcamp do Santander. Os tipos de collection utilizados são do tipo LIST, SET e MAP. 
 
  ## Tecnologias utilizadas 
  • Java
